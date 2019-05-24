@@ -1,0 +1,14 @@
+/*
+Theme Name: User experience theme 
+Description: Child Theme based on Twenty Seventeen
+Author: Nikhita Sawant
+Version: 1.0
+Template: twentyseventeen
+*/
+
+@import url('../twentyseventeen/style.css');
+.site-content-contain {
+    background-color: #e0fff3;
+    position: relative;
+
+    
