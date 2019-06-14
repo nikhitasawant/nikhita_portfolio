@@ -17,4 +17,11 @@ Template: twentyseventeen
 font-family: 'Open Sans', sans-serif;
 font-family: 'Roboto Condensed', sans-serif;
 font-family: 'Roboto Slab', serif; */
-    
+
+body.has-header-image .site-title a {
+    color: #5d636b;
+}
+
+body {
+	font-family: Roboto;
+}
